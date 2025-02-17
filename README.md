@@ -1,0 +1,1 @@
+This project is a simple calculator application built using Python and Tkinter. It provides a graphical user interface (GUI) that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
